@@ -1,0 +1,1 @@
+aiogram==3.7.0\naiosqlite\npython-dotenv\nrequests\n
