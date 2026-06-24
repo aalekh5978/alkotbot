@@ -1,1 +1,3 @@
-aiogram==3.7.0\naiosqlite\npython-dotenv\nrequests\n
+aiogram==3.7.0
+aiosqlite
+requests
